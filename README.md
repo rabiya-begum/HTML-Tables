@@ -1,2 +1,2 @@
 # HTML-Tables
-For Demo Putpose
+For Demo Purpose
